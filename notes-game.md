@@ -11,5 +11,6 @@
 # Tutorials
 ## HTML 5
 * https://www.html5rocks.com/en/tutorials/canvas/notearsgame/ 
-* https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Move_the_ball 
+* Breakout https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Move_the_ball 
 * https://www.w3schools.com/graphics/game_intro.asp
+* Galaxian Shooter https://html5gamedevelopment.com/2013-06-5-part-html5-game-tutorial-galaxian-shooter/
