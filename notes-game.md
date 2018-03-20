@@ -8,6 +8,8 @@
 ## HTML5 
 * http://mightyfingers.com/
 * https://phaser.io/
-## Tutorial
-* https://www.html5rocks.com/en/tutorials/canvas/notearsgame/ (HTML5)
-* https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Move_the_ball (HTML5)
+# Tutorials
+## HTML 5
+* https://www.html5rocks.com/en/tutorials/canvas/notearsgame/ 
+* https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Move_the_ball 
+* https://www.w3schools.com/graphics/game_intro.asp
