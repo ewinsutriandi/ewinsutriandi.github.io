@@ -1,0 +1,163 @@
+<!doctype html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8" />
+    <title>Phaser 3 example - Random item generation</title>
+    <script src="//cdn.jsdelivr.net/npm/phaser@3.1.1/dist/phaser.js"></script>
+    <style type="text/css">
+        body {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+
+<script type="text/javascript">
+
+var config = {
+    type: Phaser.AUTO,
+    width: 1024,
+    height: 600,
+    physics: {
+        default: 'arcade',
+        arcade: {
+            gravity: { y: 300 },
+            debug: false
+        }
+    },
+    scene: {
+        preload: preload,
+        create: create,
+        update: update
+    }
+};
+
+var player;
+var stars;
+var dogs;
+var bombs;
+var platforms;
+var cursors;
+var score = 0;
+var gameOver = false;
+var scoreText;
+
+var game = new Phaser.Game(config);
+var latarDepan
+var latarTengah
+var latarBelakang 
+
+function preload ()
+{
+    // background
+    this.load.image('sky', 'assets/sky.png');
+    this.load.image('latarbelakang', 'assets/mountains-back.png');
+    this.load.image('latartengah', 'assets/mountains-mid1.png');
+    this.load.image('latardepan', 'assets/mountains-mid2.png');
+
+    this.load.image('ground', 'assets/platform.png');
+    this.load.image('star', 'assets/star.png');
+    this.load.image('bomb', 'assets/bomb.png');
+    this.load.image('dog', 'assets/oyoksmall.png');
+    this.load.spritesheet('dude', 'assets/dude.png', { frameWidth: 32, frameHeight: 48 });
+}
+
+function create ()
+{
+    // Specify world size
+    this.physics.world.bounds.width = 1600; // note that it is larger than frame size that we've already defined in config
+    
+    
+    //  A simple background for our game
+    this.add.image(400, 300, 'sky');
+    this.add.image(1200, 300, 'sky');
+    
+
+    //  The platforms group contains the ground and the 2 ledges we can jump on
+    platforms = this.physics.add.staticGroup();
+
+    //  Here we create the ground.
+    //  Scale it to fit the width of the game (the original sprite is 400x32 in size)
+    platforms.create(400, 568, 'ground').setScale(2).refreshBody();
+
+    //  Now let's create some ledges
+    platforms.create(600, 400, 'ground');
+    platforms.create(50, 250, 'ground');
+    platforms.create(750, 220, 'ground');
+    platforms.create(1350, 420, 'ground');
+    platforms.create(1525, 170, 'ground');
+    platforms.create(1250, 320, 'ground');
+
+    platforms.create(1000, 584, 'ground');
+    platforms.create(1700, 576, 'ground').setScale(3).refreshBody();
+
+    
+    
+
+    //  Some stars to collect, 12 in total, evenly spaced 70 pixels apart along the x axis
+    stars = this.physics.add.group({
+        key: 'star',
+        repeat: 11,
+        setXY: { x: 24, y: 0, stepX: 140 }
+    });
+
+    dogs = this.physics.add.group({
+        key: 'dog',
+        repeat: 5,
+        setXY: {
+            x: 30,
+            y: 0,
+            stepX: 200
+        }
+    })
+
+    dogs.children.iterate(function (child) {
+
+        //  Give each star a slightly different bounce
+        child.setBounceY(Phaser.Math.FloatBetween(0.6, 0.8));
+        child.setInteractive();
+
+    });
+
+    stars.children.iterate(function (child) {
+
+        //  Give each star a slightly different bounce
+        child.setBounceY(Phaser.Math.FloatBetween(0.4, 0.8));
+        child.setInteractive();
+
+    });
+
+    this.input.on('gameobjectdown',function(event,gameObject){
+        console.log('klik oioioioi')
+        console.log(event)
+        console.log(gameObject)
+        gameObject.setVelocityY(-300)
+    });
+
+    bombs = this.physics.add.group();
+
+    //  The score
+    scoreText = this.add.text(16, 16, 'Score: 0', { fontSize: '32px', fill: '#000' });
+    
+
+    
+    // set bounds so the camera won't go outside the game world
+    this.cameras.main.setBounds(0, 0, 1600, 300);
+    // make the camera follow the player
+    
+    this.physics.add.collider(stars, platforms);
+    this.physics.add.collider(dogs, platforms);
+}
+
+function update ()
+{
+    
+    
+}
+
+
+
+</script>
+
+</body>
+</html>
