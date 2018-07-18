@@ -3,4 +3,4 @@
 ## TI B
 
 Anggota | Game | Nilai
-Faisal, Fathurriadi | [Pocong Jontlak] (https://faisalhdt.github.io/) | A
+Faisal, Fathurriadi | [Pocong Jontlak] <https://faisalhdt.github.io/> | A
