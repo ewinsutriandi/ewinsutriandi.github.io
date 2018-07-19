@@ -2,6 +2,10 @@
 
 ### TI A
 
+|Anggota | Game | Nilai |
+|---|---|---|
+|   |   |   |
+
 ### TI B
 
 |Anggota | Game | Nilai |
@@ -13,3 +17,6 @@
 
 
 ### TI C
+|Anggota | Game | Nilai |
+|---|---|---|
+|   |   |   |
