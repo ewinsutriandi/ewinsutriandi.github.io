@@ -6,6 +6,7 @@
 |---|---|---|
 | Syaiful, Heriadi  | [Pesawat Tempur](http://ponkz.github.io/Pesawat-Tempur)  | B |
 | Djatiwangi, Husnul Aini | [Puzzle](https://djatiwangi.github.io/satukanGambar/pertama.html)  | B |
+| Fima, Erlinda | [Terbang](https://fimalinda.github.io/index.html)  | B |
 
 ### TI B
 
