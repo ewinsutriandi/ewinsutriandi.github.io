@@ -11,6 +11,7 @@
 | Devi, Fitriana, Ramdani Said| [Azab Jangger](https://fitrianatasya.github.io)  |-|
 | Fima, Erlinda|[Fly Emoticon](https://fimalinda.github.io)  |-|
 | Adryanto, Artia|[MathGame](https://adriyan123.github.io)  |-|
+| Edi Sujarwinto, Dianita Sari |[Wolf Adventure](http://edisujar.github.io/)|-|
 
 ### TI B
 
