@@ -18,7 +18,7 @@
 |Husnul Maidah, Risna Windari| [Tupai dan Apel](https://husnulmaidah.github.io/)| B |
 |Usniwati, Nirwana Parhiati| [Pingpong](https://usniw.github.io/)| B |
 |Amelina, Rina| [Pingpong Boy](https://play.google.com/store/apps/details?id=id.haqiqi_studio.pimpong)| B |
-|Patoni, Wahyu, Rangga| [Pingpong Boy](https://patoniazhari.github.io/penyihir-penyihir/)| B |
+|Patoni, Wahyu, Rangga| [Penyihir](https://patoniazhari.github.io/penyihir-penyihir/)| B |
 |Agi Warkio, Robiul Wandani| [Pas pasan](https://dani1107.github.io/) | B |
 
 ### TI C
