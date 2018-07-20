@@ -5,8 +5,18 @@
 |Anggota | Game | Nilai |
 |---|---|---|
 | Syaiful, Heriadi  | [Pesawat Tempur](http://ponkz.github.io/Pesawat-Tempur)  | B |
+<<<<<<< HEAD
 | Djatiwangi, Husnul Aini | [Puzzle](https://djatiwangi.github.io/satukanGambar/pertama.html)  | B |
 | Fima, Erlinda | [Terbang](https://fimalinda.github.io/index.html)  | B |
+=======
+| Djatiwangi, Husnul Aini, Aswatun | [Puzzle](https://djatiwangi.github.io/satukanGambar/pertama.html)  | B |
+| Ari Parta, Oyik, Hizmiani| [Ujian Peka](https://play.google.com/store/apps/details?id=com.ujianpeka.ujianpeka)  |-|
+| M Indar Jaya Ramdani| [Antariksa](https://indarjaya.github.io)  |-|
+| Devi, Fitriana, Ramdani Said| [Azab Jangger](https://fitrianatasya.github.io)  |-|
+| Fima, Erlinda|[Fly Emoticon](https://fimalinda.github.io)  |-|
+| Adryanto, Artia|[MathGame](https://adriyan123.github.io)  |-|
+| Edi Sujarwinto, Dianita Sari |[Wolf Adventure](http://edisujar.github.io/)|-|
+>>>>>>> 6347bc7c36230ff180245e87c2f7db370e8b0e26
 
 ### TI B
 
