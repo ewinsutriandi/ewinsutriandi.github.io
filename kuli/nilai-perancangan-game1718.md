@@ -9,7 +9,7 @@
 | Ari Parta, Oyik, Hizmiani| [Ujian Peka](https://play.google.com/store/apps/details?id=com.ujianpeka.ujianpeka)  |-|
 | M Indar Jaya Ramdani| [Antariksa](https://indarjaya.github.io)  |-|
 | Devi, Fitriana, Ramdani Said| [Azab Jangger](https://fitrianatasya.github.io)  |-|
-| Fima, Erlinda|[[Fly Emoticon](https://fimalinda.github.io)  ]|-|
+| Fima, Erlinda|[Fly Emoticon](https://fimalinda.github.io)  |-|
 | Adryanto, Artia|[MathGame](https://adriyan123.github.io)  |-|
 
 ### TI B
