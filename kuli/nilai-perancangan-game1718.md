@@ -27,9 +27,10 @@
 |Usniwati, Nirwana Parhiati| [Pingpong](https://usniw.github.io/)| B |
 |Amelina, Rina| [Pingpong Boy](https://play.google.com/store/apps/details?id=id.haqiqi_studio.pimpong)| B |
 |Patoni, Wahyu, Rangga| [Penyihir](https://patoniazhari.github.io/penyihir-penyihir/)| B |
-|Agi Warkio, Robiul Wandani| [Pas pasan](https://dani1107.github.io/) | A |-
-|Khairul Paridi, Alimudin| [Selingkuh](https://khairulf.github.io/) | C |-
-
+|Agi Warkio, Robiul Wandani| [Pas pasan](https://dani1107.github.io/) | A |
+|Khairul Paridi, Alimudin| [Selingkuh](https://khairulf.github.io/) | C |
+|Widiatul, Meri, M. Fauzi| [Akurat atau Mati](https://widiatulislamiyah.github.io/WidiatulIslamiah.github.io/) | A |
+ 
 ### TI C
 |Anggota | Game | Nilai |
 |---|---|---|
