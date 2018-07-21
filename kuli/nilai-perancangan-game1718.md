@@ -30,6 +30,7 @@
 |Agi Warkio, Robiul Wandani| [Pas pasan](https://dani1107.github.io/) | A |
 |Khairul Paridi, Alimudin| [Selingkuh](https://khairulf.github.io/) | A |
 |Widiatul, Meri, M. Fauzi| [Akurat atau Mati](https://widiatulislamiyah.github.io/WidiatulIslamiah.github.io/) | A |
+|Akbar, Bayu| [Lari Pagi](https://akbarms.github.io/) | A |
 
 ### TI C
 
