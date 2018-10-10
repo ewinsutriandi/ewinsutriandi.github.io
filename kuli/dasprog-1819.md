@@ -1,40 +1,20 @@
 # Dasar Pemrograman 
-Aswian Editri Sutriandi | Semester Ganjil 2018-2019
+Semester Ganjil 2018-2019
 
-## Materi
-Garis besar materi yang akan disampaikan pada kelas dasar pemrograman pada semester ini :
-* Pengenalan: apa, mengapa, bagaimana, klasifikasi, trend
-* Persiapan lingkungan pemrograman
-* Variabel dan tipe data
-* Assignment
-* Operators
-* Statements
-* Conditional
-* Arrays
-* Loop
-* Function
-* Problem solving
-* Debugging
-* Intro to Object Oriented programming paradigm
-* Intro to Functional programming paradigm
-
-
-## Bahasa pemrograman yang digunakan
-Contoh di kelas akan diberikan dalam bahasa pemrograman Golang.
+## Notes
+* Bahasa pemrograman utama yang akan digunakan : [Python](https://www.python.org/)
+* Elemen dan bobot penilaian mengikuti standar kampus
+* Tidak ada ujian perbaikan
 
 ## Persiapan
-Hal-hal yang perlu disiapkan mahasiswa secara mandiri:
-* Komputer/laptop yang siap digunakan untuk 
+* Lakukan instalasi python pada komputer/laptop anda. Installer bisa didapatkan di [sini](https://www.python.org/downloads/)
+* Lengkapi komputer anda dengan [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), jika anda benar-benar baru mengenal pemrograman, anda sebaiknya cukup menggunakan [Sublime Text](https://www.sublimetext.com/3) 
+* Siapkan alamat email, baca artikel [ini](https://id.wikihow.com/Menulis-Email-Resmi) untuk panduan alamat email yang baik.
+* Siapkan [akun github](https://github.com/), tugas-tugas akan dikumpulkan dengan memanfaatkan github (via pull request)
 
-## Penilaian
-* Tugas mandiri/berkelompok
-* UTS
-* UAS
-* Kehadiran
+## Bantuan Belajar Mandiri
+* Buat akun pada situs untuk belajar pemrograman [Sololearn](https://www.sololearn.com/), anda dapat belajar python (dan banyak bahasa pemrograman lainnya) secara mandiri dari situs ini. ''Catatan:  Lulus pada course python = 100 nilai UTS''
+* Intip materi dari MIT [introduction-to-computer-science-and-programming-in-python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/syllabus/), anda akan menjadi programmer yang baik bila mampu mengikuti materi ini
 
-### Tugas Mandiri
-Komponen tugas mandiri:
-* Membuat akun github, 20 poin, silahkan mendaftar pada [https://github.com/join]
-* Memiliki github pages, 20 poin, petunjuk [https://pages.github.com/]
-* Memiliki repository pertama dengan bahasa golang, 30 poin
-* PR Lainnya, 30 poin
+## Bahan Bacaan Spesial
+* Menyusul ...
