@@ -1,7 +1,7 @@
 # Dasar Pemrograman 
 Semester Ganjil 2018-2019
 
-<small><span style="color:blue">Isi halaman ini diupdate secara periodik</span></small>
+<span style="color:yellow">* <sub>Isi halaman ini diupdate secara periodik</sub> *</span>
 ## Notes
 * Bahasa pemrograman utama yang akan digunakan : [Python](https://www.python.org/)
 * Elemen dan bobot penilaian mengikuti standar kampus
