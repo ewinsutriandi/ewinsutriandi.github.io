@@ -17,7 +17,7 @@ Semester Ganjil 2018-2019
 * Buat akun pada situs untuk belajar pemrograman [Sololearn](https://www.sololearn.com/), anda dapat belajar python (dan banyak bahasa pemrograman lainnya) secara mandiri dari situs ini. Catatan:  Lulus pada course python = bonus nilai UTS dan UAS
 * Intip materi dari MIT [introduction-to-computer-science-and-programming-in-python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/syllabus/), anda akan menjadi programmer yang baik bila mampu mengikuti materi ini
 
-#Tools
+## Tools
 * [Python shell](https://www.python.org/shell/), lakukan pemrograman via interactive shell di browser anda
 ## Bahan Bacaan Spesial
 * Menyusul ...
