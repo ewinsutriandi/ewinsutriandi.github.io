@@ -1,0 +1,1 @@
+print('Ini contoh jawaban untuk tugas1')
