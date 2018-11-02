@@ -14,7 +14,7 @@ Semester Ganjil 2018-2019
 * Siapkan [akun github](https://github.com/), tugas-tugas akan dikumpulkan dengan memanfaatkan github (via pull request)
 
 ## Tugas
-* [Tugas I](tugasI), dikumpulkan paling lambat 13 Nov 2018 (TI D), 14 Nov 2018 (SI)
+* [Tugas I](tugasI), dikumpulkan via pull request (PR) paling lambat 13 Nov 2018 (TI D), 14 Nov 2018 (SI)
 
 ## Bantuan Belajar Mandiri
 * Buat akun pada situs untuk belajar pemrograman [Sololearn](https://www.sololearn.com/), anda dapat belajar python (dan banyak bahasa pemrograman lainnya) secara mandiri dari situs ini. Catatan:  Lulus pada course python = bonus nilai UTS dan UAS
