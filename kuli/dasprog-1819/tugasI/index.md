@@ -1,24 +1,19 @@
-# Dasar Pemrograman 
+# TUGAS I  
+Dasar Pemrograman 
 Semester Ganjil 2018-2019
 
-<sub>* Isi halaman ini diupdate secara periodik *</sub> 
-## Notes
-* Bahasa pemrograman utama yang akan digunakan : [Python](https://www.python.org/)
-* Elemen dan bobot penilaian mengikuti standar kampus
-* Tidak ada ujian perbaikan
+## Soal
+Perhatikan gambar di bawah ini
+![alt text](output.png "Output program")
+Pada gambar diperlihatkan output sebuah program yang dijalankan tiga kali dengan input yang berbeda-beda.
+Tugas anda adalah menyusun program dengan output seperti yang diperlihatkan pada gambar.
 
-## Persiapan
-* Lakukan instalasi python pada komputer/laptop anda. Installer bisa didapatkan di [sini](https://www.python.org/downloads/)
-* Lengkapi komputer anda dengan [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), jika anda benar-benar baru mengenal pemrograman, anda sebaiknya cukup menggunakan [Sublime Text](https://www.sublimetext.com/3) 
-* Siapkan alamat email, baca artikel [ini](https://id.wikihow.com/Menulis-Email-Resmi) untuk panduan alamat email yang baik.
-* Siapkan [akun github](https://github.com/), tugas-tugas akan dikumpulkan dengan memanfaatkan github (via pull request)
+## Mekanisme pengumpulan
+Tugas dikumpulkan melalui pull request. Masing-masing mahasiswa diminta membuat folder pada [alamat ini](../tugas-mhs) menggunakan nama masing-masing. Setiap tugas, misalkan tugasI diletakkan pada folder tersebut dengan nama sesuai urutan tugas (misal:tugas1.py). Lihat sampel pada alamat tersebut untuk mahasiswa bernama Loq Pelocok.
 
-## Bantuan Belajar Mandiri
-* Buat akun pada situs untuk belajar pemrograman [Sololearn](https://www.sololearn.com/), anda dapat belajar python (dan banyak bahasa pemrograman lainnya) secara mandiri dari situs ini. Catatan:  Lulus pada course python = bonus nilai UTS dan UAS
-* Lihat materi khusus dan lengkap tentang python dari [w3schools - Python Tutorial](https://www.w3schools.com/python/)
-* Intip materi dari MIT [introduction-to-computer-science-and-programming-in-python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/syllabus/), anda akan menjadi programmer yang baik bila mampu mengikuti materi ini
+## Deadline
+* Untuk kelas TI D 13 Nov 2018
+* Untuk kelas SI 14 Nov 2018
 
-## Tools
-* [Python shell](https://www.python.org/shell/), lakukan pemrograman via interactive shell di browser anda
-## Bahan Bacaan Spesial
-* Menyusul ...
+
+
