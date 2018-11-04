@@ -9,7 +9,7 @@ Semester Ganjil 2018-2019
 
 ## Persiapan
 * Lakukan instalasi python pada komputer/laptop anda. Installer bisa didapatkan di [sini](https://www.python.org/downloads/)
-* Lengkapi komputer anda dengan [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), jika anda benar-benar baru mengenal pemrograman, anda sebaiknya cukup menggunakan [Sublime Text](https://www.sublimetext.com/3) 
+* Lengkapi komputer anda dengan [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), jika anda benar-benar baru mengenal pemrograman, anda dapat menggunakan [Sublime Text](https://www.sublimetext.com/3), jika sudah siap, anda dapat menggunakan Spyder (Scientific Python Development Environment) yang dapat didownload [di sini](https://winpython.github.io/)
 * Siapkan alamat email, baca artikel [ini](https://id.wikihow.com/Menulis-Email-Resmi) untuk panduan alamat email yang baik.
 * Siapkan [akun github](https://github.com/), tugas-tugas akan dikumpulkan dengan memanfaatkan github (via pull request)
 
