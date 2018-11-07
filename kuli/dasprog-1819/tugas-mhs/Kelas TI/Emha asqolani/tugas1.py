@@ -1,5 +1,3 @@
-#Nama = Emha Asqolani
-#Prodi = Teknik Informatika (D)
 saya = input('Masukan berat badan anda (kg)')
 rekan = input('Masukan berat badan rekan anda (kg)')
 rekan = int(rekan)
