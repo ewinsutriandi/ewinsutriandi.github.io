@@ -13,6 +13,14 @@ Semester Ganjil 2018-2019
 * Siapkan alamat email, baca artikel [ini](https://id.wikihow.com/Menulis-Email-Resmi) untuk panduan alamat email yang baik.
 * Siapkan [akun github](https://github.com/), tugas-tugas akan dikumpulkan dengan memanfaatkan github (via pull request)
 
+## Materi
+* Intro
+* Number, String, Operators
+* Branch
+* [List](materi/list)
+* Loop
+
+
 ## Tugas
 * [Tugas I](tugasI), dikumpulkan via pull request (PR) paling lambat 13 Nov 2018 (TI D), 14 Nov 2018 (SI)
 
