@@ -18,7 +18,7 @@ Semester Ganjil 2018-2019
 * Number, String, Operators
 * Branch
 * [List](materi/list)
-* Loop
+* [Loop/Perulangan](materi/loop)
 
 
 ## Tugas
