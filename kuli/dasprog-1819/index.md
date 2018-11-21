@@ -31,5 +31,6 @@ Semester Ganjil 2018-2019
 
 ## Tools
 * [Python shell](https://www.python.org/shell/), lakukan pemrograman via interactive shell di browser anda
+
 ## Bahan Bacaan Spesial
 * Menyusul ...
