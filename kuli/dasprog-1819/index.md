@@ -16,9 +16,9 @@ Semester Ganjil 2018-2019
 ## Materi
 * Intro
 * Number, String, Operators
-* Branch
+* [Branch](materi/branching): if, if-else, if-elif-else
 * [List](materi/list)
-* [Loop/Perulangan](materi/loop)
+* [Loop/Perulangan](materi/loop) : while, for
 
 
 ## Tugas
