@@ -11,6 +11,9 @@ Loop menggunakan syntax **for**. Syntax ini digunakan jika ingin mengulang eksek
 
 ## Contoh kasus
 
+### Mencari bilangan pangkat dua yang lebih kecil dari 100
+<script src="https://gist.github.com/ewinsutriandi/948fede087509a117cfe21c51bad5fdd.js"></script>
+
 ### Mencari nilai maksimum pada list
 <script src="https://gist.github.com/ewinsutriandi/f02908b23a76fff3716fc76d070f74b4.js"></script>
 
