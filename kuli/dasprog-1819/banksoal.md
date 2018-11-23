@@ -18,5 +18,5 @@ Tingkatkan kemampuan anda dengan mencoba menyelesaikan latihan soal pemrograman 
 | Judul | Deskripsi | Petunjuk |
 | ----- | --------- | -------- |
 | Primes! | Buat program yang mencetak seluruh bilangan prima dibawah 1000 | - |
-| Palindrome | Buat sebuah program yang memeriksa apakah kata yang dimasukkan user adalah sebuah *palindrome*. Palindrome adalah kata/frasa/kalimat yang bila dibaca terbalik hasilnya sama | perlakukan huruf pada kata sebagai elemen list |
+| Palindrome | Buat sebuah program yang memeriksa apakah kata yang dimasukkan user adalah sebuah *palindrome*. Palindrome adalah kata/frasa/kalimat yang bila dibaca terbalik hasilnya sama. \Contoh: kasur ini rusak, malam, dsb | perlakukan huruf pada kata sebagai elemen list |
 | Feynman square | Buat sebuah program yang menerima input integer (misal: n), kemudian program tersebut menghitung jumlah persegi yang mungkin pada sebuah grid berisi n x n persegi. Contoh bila input adalah angka 2, jumlah persegi yang mungkin adalah 5 | - |
