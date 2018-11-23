@@ -20,6 +20,8 @@ Semester Ganjil 2018-2019
 * [List](materi/list)
 * [Loop/Perulangan](materi/loop) : while, for
 
+## Bank Soal
+Latih kemampuan anda dengan mencoba menyelesaikan soal-soal pemrograman di halaman [Bank Soal](banksoal)
 
 ## Tugas
 * [Tugas I](tugasI), dikumpulkan via pull request (PR) paling lambat 13 Nov 2018 (TI D), 14 Nov 2018 (SI)
