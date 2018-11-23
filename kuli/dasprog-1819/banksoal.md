@@ -14,3 +14,8 @@ Tingkatkan kemampuan anda dengan mencoba menyelesaikan soal-soal pemrograman ber
 | Primes! | Buat program yang mencetak seluruh bilangan prima dibawah 1000 | - |
 | Binary minds | Buat program tebak angka, dimana komputer memilih sebuah angka acak dari 1 s.d 100, kemudian pengguna diminta menebak angka tersebut. Bila angka yang dimasukkan pengguna lebih besar dari angka pilihan komputer, komputer merespon dengan **Angka yang anda masukkan terlalu besar**, dan sebaliknya hingga pengguna berhasil menebak angka dimaksud. Saat pengguna berhasil, komputer merespon dengan **Anda berhasil menebak angka rahasia pada percobaan ke-X** | - |
 
+### List ###
+
+| Judul | Deskripsi | Petunjuk |
+| ----- | --------- | -------- |
+| Palindrome | Buat sebuah program yang memeriksa apakah kata yang dimasukkan user adalah sebuah *palindrome*. Palindrome adalah kata/frasa/kalimat yang bila dibaca terbalik hasilnya sama | perlakukan huruf pada kata sebagai elemen list |
