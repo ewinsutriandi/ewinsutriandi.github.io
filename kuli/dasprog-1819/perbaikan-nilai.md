@@ -13,8 +13,8 @@ Tugas anda adalah melengkapi kode tersebut dengan catatan sebagai berikut:
 * Key diganti nilainya dengan jumlah dari dua digit NIM terakhir anda
 * Kode hasilnya dikirim paling lambat hari Jumat, 8 Februari 2019, ke alamat email ewin.sutriandi[at]gmail.com
 
-Bahan yang dapat digunakan sebagai rujukan:
-* [https://sholeh012.wordpress.com/2011/10/03/caesar-cipher-dan-cipher-key/]
+Bahan untuk rujukan:
+* (https://sholeh012.wordpress.com/2011/10/03/caesar-cipher-dan-cipher-key/)
  
 
 
