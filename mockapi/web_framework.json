@@ -1,0 +1,38 @@
+{
+  "React": {
+    "description": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3] for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[4][5][6] React can be used as a base in the development of single-page or mobile applications. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.[7]",
+    "original_author": "Jordan Walke",
+    "official_website": "https://reactjs.org/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"
+  },
+  "Vue": {
+    "description": "Vue.js (commonly referred to as Vue; pronounced /vjuː/, like \"view\"[4]) is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications.[11] It was created by Evan You, and is maintained by him and the rest of the active core team members.[12]",
+    "original_author": "Evan You",
+    "official_website": "https://vuejs.org/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png"
+  },
+  "AngularJS": {
+    "description": "AngularJS is a JavaScript-based open-source front-end web framework for developing single-page applications. It is maintained mainly by Google and a community of individuals and corporations. It aims to simplify both the development and the testing of such applications by providing a framework for client-side model–view–controller (MVC) and model–view–viewmodel (MVVM) architectures, along with components commonly used in web applications and progressive web applications.\n\nAngularJS is used as the frontend of the MEAN stack, consisting of MongoDB database, Express.js web application server framework, AngularJS itself (or Angular), and Node.js server runtime environment.\n\nThe AngularJS framework is on Long Term Support (\"LTS\") until December 31, 2021.[3][4] After that date Google will no longer update AngularJS to fix security, browser compatibility, or jQuery issues.[5][4] The Angular team recommends upgrading to Angular (v2+) as the best path forward, but they also provided some other options.[6]",
+    "original_author": "Google",
+    "official_website": "https://angularjs.org/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/695px-AngularJS_logo.svg.png"
+  },
+  "Laravel": {
+    "description": "Laravel is a free, open-source[3] PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller (MVC) architectural pattern and based on Symfony. Some of the features of Laravel are a modular packaging system with a dedicated dependency manager, different ways for accessing relational databases, utilities that aid in application deployment and maintenance, and its orientation toward syntactic sugar.[4][5]: 2, 5–9 [6][7]",
+    "original_author": "Taylor Otwell",
+    "official_website": "https://laravel.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/738px-Laravel.svg.png"
+  },
+  "Vaadin": {
+    "description": "Vaadin (Finnish pronunciation: [ˈʋɑːdin]) is an open-source web application development platform for Java. Vaadin includes a set of Web Components, a Java web framework, and a set of tools that enable developers to implement modern web graphical user interfaces (GUI) using the Java programming language only (instead of HTML and JavaScript), TypeScript only, or a combination of both.",
+    "original_author": "Vaadin Ltd.",
+    "official_website": "http://vaadin.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Vaadin_Logo.svg/512px-Vaadin_Logo.svg.png"
+  },
+  "Spring Framework": {
+    "description": "The Spring Framework is an application framework and inversion of control container for the Java platform. The framework's core features can be used by any Java application, but there are extensions for building web applications on top of the Java EE (Enterprise Edition) platform. Although the framework does not impose any specific programming model, it has become popular in the Java community as an addition to the Enterprise JavaBeans (EJB) model. The Spring Framework is open source.",
+    "original_author": "Pivotal Software",
+    "official_website": "https://spring.io/projects/spring-framework",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/640px-Spring_Framework_Logo_2018.svg.png"
+  }
+}
