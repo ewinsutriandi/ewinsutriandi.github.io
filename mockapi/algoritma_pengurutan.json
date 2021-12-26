@@ -1,7 +1,7 @@
 {
   "Bubble Sort": {
     "deskripsi": "Algoritma bubble sort merupakan salah satu teknik pengurutan sederhana, yang dilakukan dengan menelusuri sebuah list, membandingkan elemen yang berdekatan, kemudian menukarnya apabila posisinya tidak tepat.\n\nUntuk mengurutkan seluruh elemen pada list, proses penelusuran ini dilakukan secara berulang-ulang sebanyak n-1 kali (n jumlah elemen pada list), dimana tiap siklus penelusuran bertujuan menempatkan satu angka pada posisi yang tepat.\n\nIstilah bubble sort sendiri digunakan karena secara visual, seolah-olah setiap elemen terlihat bergerak ke atas/kanan (indeks yang lebih besar) seperti gelembung udara yang naik ke permukaan air.",
-    "gambar": "https://en.wikipedia.org/wiki/File:Bubble-sort-example-300px.gif",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif",
     "baca_lebih_lanjut": "https://koding.alza.web.id/algoritma-bubble-sort/"
   },
   "Selection Sort": {
